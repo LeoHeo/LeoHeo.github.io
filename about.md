@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: 허진한
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+- Software Engineer
+- 6개월, 6년 이라는 경력 숫자의 틀보다이런 시간의 쌓임이 헛되지 않는 사람그래서 앞으로의 시간도 그렇게 보낼것이라 예상되는 사람이 되고자 합니다.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[github](github.com/LeoHeo)
+[hjh5488@gmail.com](mailto:hjh5488@gmail.com)

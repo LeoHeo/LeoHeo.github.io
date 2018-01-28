@@ -15,4 +15,4 @@ title: maven vs gradle
 - `$ ./gradlew build` <-- gradle project일 경우 gradle 설치 없이 빌드 할 수 있다.
 
 # jar 파일 실행방법
-`$ java -jar {build.jar}` <-- jar 파일로 나온걸 이 커맨드로 실행 할 수 있다. 
+`$ java -jar {build_file_name.jar}` <-- jar 파일로 나온걸 이 커맨드로 실행 할 수 있다. 

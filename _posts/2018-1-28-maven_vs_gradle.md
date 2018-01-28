@@ -11,7 +11,7 @@ title: maven vs gradle
 ](https://www.holaxprogramming.com/2017/07/04/devops-gradle-is-faster-than-maven/)
 
 ## 설치없이 build가 가능하다.
-- `$ mvn package` <-- maven은 build를 할려면 꼭 설치가 되어있어야 한다.
+- `$ mvn package` <-- maven은 build를 할려면 꼭 설치가 되어있어야 한다. -> `mvnw`가 있으면 `$ ./mvnw package`가 된다.
 - `$ ./gradlew build` <-- gradle project일 경우 gradle 설치 없이 빌드 할 수 있다.
 
 # jar 파일 실행방법

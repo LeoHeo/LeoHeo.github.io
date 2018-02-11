@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 자바 ORM 표준 JPA 프로그래밍 예제 h2 db tcp일 때 오류해결 방법
+category: Java
 ---
 
 - 책에 나오는 h2 db version `1.4.187`이다.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Constructor Injection
+category: Java
 ---
 
 - [출처](https://stackoverflow.com/a/21219567)

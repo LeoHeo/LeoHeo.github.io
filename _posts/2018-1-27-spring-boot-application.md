@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SpringBootApplication랑 SpringBootTest는 필히 root package에 위치해야한다.
+category: Java
 ---
 
 ## 문제가 되는 경우

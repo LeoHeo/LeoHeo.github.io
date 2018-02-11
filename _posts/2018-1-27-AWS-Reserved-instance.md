@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AWS Reserved Instance
+category: AWS
 ---
 
 ## 제공 클래스

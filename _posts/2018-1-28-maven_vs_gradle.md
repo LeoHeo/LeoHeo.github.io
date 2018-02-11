@@ -1,6 +1,7 @@
 ---
 layout: post
 title: maven vs gradle
+category: Java
 ---
 
 # gradle이 maven 보다 좋은점

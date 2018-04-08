@@ -103,7 +103,6 @@ AWS Seoul 리젼의 경우(2018-03-21일 기준) Docker 1.12.6, Docker 1.11.2, D
 
 ## 결론
 
-![](https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/22637722_1947413722194673_8590738240510623744_n.jpg)
 node-gyp로 인해서 AWS eb multi-container docker 서울리젼 배포하기를 해봤는데 삽질로 인해 쉽지않았습니다.
 그렇지만 AWS eb multi container docker에 대해서 알게되는 계기가 되어서 좋았습니다.
 

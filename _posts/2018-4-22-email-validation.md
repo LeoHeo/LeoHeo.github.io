@@ -35,7 +35,7 @@ BadRequestException 라는 Custom Exception을 만들고 @RestControllerAdvice�
 
 {% gist 2e4a6a0fc2d2b34da76abf66aa5d8102 %}
 <br />
-제가 원하는 Email format은 `test@g.com` 같은 형태인데 `test@g` 같은 경우가 제대로 validation이 되지 않아서 email regex를 직접 지정해주게 바꾸었고 잘 작동하는 걸 확인했습니다.
+제가 원하는 Email format은 `test@g.com` 같은 형태인데 `test@g` 같은 경우가 제대로 validation이 되지 않아서 email regexp를 직접 지정해주게 바꾸었고 잘 작동하는 걸 확인했습니다.
 
 [해당 커밋](https://github.com/LeoHeo/collect/commit/b1cd389ad7d4d5b21af6cea10dd057831a7dd7f8){:target="_blank"}
 

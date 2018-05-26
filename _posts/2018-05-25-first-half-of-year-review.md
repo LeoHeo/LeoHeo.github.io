@@ -47,4 +47,4 @@ AWS IoT + API Gateway를 이용해서 IoT 기기들을 제어하는 API를 만�
 ![](https://image.slidesharecdn.com/freedomresponsibilityculture-150609081022-lva1-app6892/95/-25-638.jpg?cb=1439617172)
 [출처 - 넷플릭스의 문화 : 자유와 책임 (한국어 번역본)](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
 
-내가 성장을 하고 싶고 공부를 지속해서 하는 이유는 나도 이런 멋진 일터에서 일하고 싶어서이다. 그러기 위해서는 나부터가 남들한테 **멋진 동료가 될 수 있는가?** 라는 생각에 지속해서 성장을 갈구하는 거 같다.
+위 글은 평소에 내가 꿈꾸는 일터의 모습이다. 멋진 동료를 만나기 위해서는 나부터가 남들한테 **멋진 동료가 될 수 있는가?** 라는 생각을 하게 된다.

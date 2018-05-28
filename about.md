@@ -10,3 +10,4 @@ permalink: /about/
 ### Contact me
 - [github](https://github.com/LeoHeo)
 - [hjh5488@gmail.com](mailto:hjh5488@gmail.com)
+- [CV](../cv_heo.pdf)

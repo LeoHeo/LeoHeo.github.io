@@ -55,6 +55,8 @@ Host github.com-{username}
 $ git clone git@github.com-{username}:LeoHeo/bookmark.git
 ```
 
+---
+
 ## 홀로 실행 가능한 JAR 만들기
 
 - spring boot로 `./graldew bootJar`를 해서 jar 파일을 만들게 되었을때 실행을 아래처럼 한다.
@@ -82,6 +84,8 @@ $ build/libs/demo-0.0.1-SNAPSHOT.jar
 
 이 방법은 문서에 아래와 같이 나와 있다.
 > On Unix-like platforms, this launch script allows the archive to be run directly like any other executable or to be installed as a service.
+
+---
 
 ## mariaDB Docker-compose로 띄우기
 

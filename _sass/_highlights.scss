@@ -1,5 +1,4 @@
-
-.highlight {
+pre {
   background-color: #efefef;
   padding: 7px 7px 7px 10px;
   border: 1px solid #ddd;
@@ -8,20 +7,6 @@
   box-shadow: 3px 3px rgba(0,0,0,0.1);
   margin: 20px 0 20px 0;
   overflow: scroll;
-}
-
-code {
-  padding: 0.2em 0.4em;
-  margin: 0;
-  font-size: 85%;
-  background-color: rgba(27,31,35,0.05);
-  border-radius: 3px;
-  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
-}
-
-pre > code {
-  background-color: rgba(0,0,0,0);
-  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
 }
 
 .highlight .c { color: #586E75 } /* Comment */

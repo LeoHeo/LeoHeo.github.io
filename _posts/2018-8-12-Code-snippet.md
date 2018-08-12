@@ -101,16 +101,15 @@ $ build/libs/demo-0.0.1-SNAPSHOT.jar
 version: '3.1'
 
 services:
-
-db:
-image: mariadb
-restart: always
-ports:
-- "3306:3306" # port mapping
-environment:
-MYSQL_ROOT_PASSWORD: 1234 # root 비밀번호
-volumes:
-- ./data:/var/lib/mariadb # docker-compose.yml 있는곳에 데이터 저장
+    db:
+        image: mariadb
+        restart: always
+        ports:
+            - "3306:3306" # port mapping
+        environment:
+            MYSQL_ROOT_PASSWORD: 1234 # root 비밀번호
+        volumes:
+            - ./data:/var/lib/mariadb # docker-compose.yml 있는곳에 데이터 저장
 
 ```
 

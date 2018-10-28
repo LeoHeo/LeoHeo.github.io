@@ -4,6 +4,8 @@ title: Spring boot에서 Annotation 기반의 AOP
 category: Java
 ---
 
+[강의](https://www.inflearn.com/course/spring-framework_core/)를 듣는데 `Spring boot에서 Annotation 기반의 AOP` 이라는 주제가 나왔다.
+
 예를들어 method의 총 실행시간을 측정을 하기 위해서는 어떻게 해야할까?
 단순하게 생각하면 아래와 같은 코드를 기존코드에 넣어야 할것이다.
 

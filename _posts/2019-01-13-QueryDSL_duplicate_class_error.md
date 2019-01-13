@@ -85,3 +85,7 @@ task generateQueryDSL(type: JavaCompile, group: 'build') {
 1. gradle clean
 2. gradle generateQueryDSL 실행
 3. application 실행
+
+
+## Reference
+- [intellij QueryDSL 설정](http://adunhansa.tistory.com/208?category=479708)
